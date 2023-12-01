@@ -1,0 +1,19 @@
+{
+  "name": "pisrepository",
+  "version": "1.0.0",
+  "description": "static file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jasonhao1/pisRepository.git"
+  },
+  "author": "lzq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jasonhao1/pisRepository/issues"
+  },
+  "homepage": "https://github.com/Jasonhao1/pisRepository#readme"
+}
