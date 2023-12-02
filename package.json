@@ -1,6 +1,6 @@
 {
   "name": "pisrepository",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "static file",
   "main": "index.js",
   "scripts": {
